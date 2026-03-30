@@ -2,8 +2,6 @@ __pycache__/
 *.py[cod]
 *.pyo
 .env
-outputs/
-*.jsonl
 *.log
 .idea/
 .vscode/
